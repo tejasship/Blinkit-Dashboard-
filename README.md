@@ -78,11 +78,11 @@ To develop a real-time dashboard that:
 
 1. Clone the repository
    git clone https://github.com/your-username/blinkit-sales-dashboard.git
-2. Open the dashboard file in your preferred tool (Power BI / Tableau / Excel).
+2. Open the dashboard file in your Power BI tool.
 
-3. Load the sample dataset or connect to your live data source.
+4. Load the sample dataset or connect to your live data source.
 
-4. Use filters to explore sales across cities, categories, and time.
+5. Use filters to explore sales across cities, categories, and time.
 
 ---
 
